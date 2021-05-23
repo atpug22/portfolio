@@ -27,7 +27,7 @@ export default function Intro() {
                     <div className="introPara">
                         <Typist cursor={{hideWhenDone: true,hideWhenDoneDelay: 10}}>
                             Full Stack Web-Developer<br/>
-                            Born in Jhansi, Living in Varanasi<br/>
+                            Born and Living in India<br/>
                             Raised by the 90's<br/>
                             Now Available For You
                         </Typist>
